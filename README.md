@@ -1,2 +1,2 @@
 # data-analytics-task-1
-Data Analytics Internship Project Repository
+Decode lab Internship Project Repository
